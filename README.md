@@ -1,4 +1,4 @@
-# Project Name
+# QR-Code
 
 This is a project I've acomplished with the help of Patrick Pilotti for a school presentation.
 
