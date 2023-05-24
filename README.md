@@ -3,7 +3,7 @@
 This is a project I've acomplished with the help of Patrick Pilotti for a school presentation.
 
 ## Table of Contents
-
+ 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies](#technologies)
