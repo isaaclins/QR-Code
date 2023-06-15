@@ -94,3 +94,4 @@ Contributions are... welcome! If you'd like to contribute to this project, pleas
 
 you are free to use this monstrosity whenever and wherever you want.
 HOWEVER you MUST keep the predefined message in the logs.
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fisaaclins%2FQR-Code&label=VISITORS%3A&labelColor=%230d1117&countColor=%230d1117)
