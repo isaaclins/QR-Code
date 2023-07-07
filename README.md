@@ -15,7 +15,7 @@ This is a project I've acomplished with the help of Patrick Pilotti for a school
 
 ## Introduction
 
-Welcome to the Project Name! This project is a databank connected via MySQL server to a Java program. The Java program accepts a GET request to a specific URL and retrieves information about an item from the database. The retrieved information includes the price, location, and category of the item.
+Welcome to the QR-Code Project! This project is a databank connected via MySQL server to a Java program. The Java program accepts a GET request to a specific URL and retrieves information about an item from the database. The retrieved information includes the price, location, and category of the item.
 
 ## Features
 
